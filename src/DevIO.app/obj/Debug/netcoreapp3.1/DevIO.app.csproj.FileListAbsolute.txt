@@ -185,3 +185,4 @@ C:\Codes\MinhaAppMvcCompleta\src\DevIO.app\obj\Debug\netcoreapp3.1\DevIO.app.csp
 C:\Codes\MinhaAppMvcCompleta\src\DevIO.app\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.app.StaticWebAssets.Manifest.cache
 C:\Codes\MinhaAppMvcCompleta\src\DevIO.app\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.app.StaticWebAssets.xml
 C:\Codes\MinhaAppMvcCompleta\src\DevIO.app\obj\Debug\netcoreapp3.1\DevIO.app.genruntimeconfig.cache
+C:\Codes\MinhaAppMvcCompleta\src\DevIO.app\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs
